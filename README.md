@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Lucas Uanderson 🤟</h1>
 <h3 align="center">Desenvolvedor Java Junior</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/7f/a5/877fa5a5411f5bdc3091222445f6c823.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/7f/a5/877fa5a5411f5bdc3091222445f6c823.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasuanderson&label=Profile%20views&color=0e75b6&style=flat" alt="lucasuanderson" /> </p>
 
