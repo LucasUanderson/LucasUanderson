@@ -1,7 +1,7 @@
 <img height="400" width="1000" src="https://user-images.githubusercontent.com/104622435/215501438-1b3b478e-610e-4597-8ddc-1a301780facc.png">
 <h1 align="center">Olá! Eu sou Lucas Uanderson 🤟</h1>
 <h3 align="center">Desenvolvedor Java Junior</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104622435/215501402-53c64e49-fbd8-4d72-ae07-a06704a1bb37.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/104622435/215501402-53c64e49-fbd8-4d72-ae07-a06704a1bb37.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasuanderson&label=Profile%20views&color=0e75b6&style=flat" alt="lucasuanderson" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
