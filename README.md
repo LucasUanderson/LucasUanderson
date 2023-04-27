@@ -16,16 +16,16 @@
 </div>
 
 ##
-<div align="center">  
+<div align="center" >  
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=8B0000&bg_color=0d1117" alt="Lucas Uanderson github stats" /> 
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&hide_border=true&title_color=B0C4DE&text_color=8B0000&bg_color=0d1117" />
   <img align="right" height="160px" border="0" alt="Lucas" src="https://user-images.githubusercontent.com/104622435/235007232-107e386f-cf1b-4caa-b574-66d4f2694620.png">
 </div>
 
 <div>
-  <a href ="" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href ="" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href ="" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="" target="_blank"><img width="6%" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href ="" target="_blank"><img width="7%"src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href ="" target="_blank"><img width="5%" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
 ##
