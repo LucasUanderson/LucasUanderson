@@ -27,8 +27,8 @@
 ##
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=8B0000&bg_color=0d1117" alt="Lucas Uanderson github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&hide_border=true&title_color=B0C4DE&text_color=8B0000&bg_color=0d1117" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=8B0000&bg_color=0d1117" alt="Lucas Uanderson github stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&hide_border=true&title_color=B0C4DE&text_color=8B0000&bg_color=0d1117" />
 </div>
 
 
