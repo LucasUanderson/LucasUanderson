@@ -36,18 +36,18 @@
  
  ### Main skills:
   <div>
- <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
- <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img align="center" alt="Lucas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+ <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ <img align="center" alt="Lucas" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
  <br>
 
  ### Studying in this moment:
  <div>
- <img align="center" alt="Lucas" height="40" width="40"  src="https://user-images.githubusercontent.com/104622435/235179640-7c1badb2-4a67-4a62-a00e-81f8f8b56a17.png"/> 
- <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img align="center" alt="Lucas" height="40" width="40" src="https://user-images.githubusercontent.com/104622435/235180797-02c4e14b-9535-4c9e-9dc7-ae5e185a9f50.png" />
- <img align="center" alt="Lucas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />         
+ <img align="center" alt="Lucas" height="27" width="27"  src="https://user-images.githubusercontent.com/104622435/235179640-7c1badb2-4a67-4a62-a00e-81f8f8b56a17.png"/> 
+ <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ <img align="center" alt="Lucas" height="27" width="27" src="https://user-images.githubusercontent.com/104622435/235180797-02c4e14b-9535-4c9e-9dc7-ae5e185a9f50.png" />
+ <img align="center" alt="Lucas" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />         
  </div>
   
   
