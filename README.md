@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=header"/>
 
 
 <div align="center" >  
@@ -16,7 +16,7 @@
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bangers&color=8B0000&size=15&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+lucas+uanderson;eu+tenho+26+anos;Estou+me+graduando+em+Engenharia+de+software;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+ <br>
 
  <div align="center" style="display: inline_block"><br>
   <img  align="center" alt="Lucas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -32,6 +32,7 @@
   <img align="center" alt="Lucas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />    
  </div>
+  <br>
  
  ### Main skills:
   <div>
