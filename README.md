@@ -37,18 +37,12 @@
  
  
 
- <div align="center" style="align: center">
  
- ### Main skills:
- <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
- <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img align="center" alt="Lucas" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
- ### Studying in this moment:
- <img align="center" alt="Lucas" height="27" width="27"  src="https://user-images.githubusercontent.com/104622435/235179640-7c1badb2-4a67-4a62-a00e-81f8f8b56a17.png"/> 
- <img align="center" alt="Lucas" height="27" width="27"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img align="center" alt="Lucas" height="27" width="27" src="https://user-images.githubusercontent.com/104622435/235180797-02c4e14b-9535-4c9e-9dc7-ae5e185a9f50.png" />
- <img align="center" alt="Lucas" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />         
+ <div align="center" style="align: center">
+
+ <img align="center" alt="Lucas" height="40%" width="30%"  src="https://user-images.githubusercontent.com/104622435/235249756-3e085614-9b0d-4ddf-b074-0d84edac7ac8.png" /> 
+ 
  </div>
   
 <div align="center">
