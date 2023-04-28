@@ -33,14 +33,6 @@
   <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />    
  </div>
  
- ### Studying in this moment:
- <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />    
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />    
-  <img height="40" width="60" src="https://user-images.githubusercontent.com/104622435/235172424-5e3689f9-03af-4ae5-b7d8-6a069504558c.png" />
-  <img height="35" width="40" src="https://user-images.githubusercontent.com/104622435/235175760-d5eca46d-1c92-4e53-9c8a-c8f1aee1e0fe.png" />
- </div>
- 
  ### Main skills:
   <div>
  <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
