@@ -4,7 +4,7 @@
 <div align="center" >  
 <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasUanderson&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=8B0000&bg_color=0d1117" alt="Lucas Uanderson github stats" /> 
 <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUanderson&layout=compact&hide_border=true&title_color=B0C4DE&text_color=8B0000&bg_color=0d1117" />
-<img align="right" height="160px" border="0" alt="Lucas" src="https://user-images.githubusercontent.com/104622435/235007232-107e386f-cf1b-4caa-b574-66d4f2694620.png">
+<img align="right" height="190px" border="0" alt="Lucas" src="https://user-images.githubusercontent.com/104622435/235007232-107e386f-cf1b-4caa-b574-66d4f2694620.png">
 </div>
 
 <div align="right">
