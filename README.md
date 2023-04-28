@@ -34,7 +34,7 @@
           
  </div>
  
- 
+  <img align="center" alt="Lucas" height="300" width="100%"  src="https://user-images.githubusercontent.com/104622435/235049328-4570caa2-af49-4f2b-a63c-4eec1d6a9c2b.gif" />
  
 <div align="center">
  
