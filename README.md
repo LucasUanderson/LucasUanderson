@@ -32,7 +32,9 @@
   <img align="center" alt="Lucas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />    
  </div>
-  <br>
+ <hr>
+ <br>
+ 
  
  ### Main skills:
   <div>
