@@ -41,7 +41,7 @@
 
  <div align="center" style="align: center">
 
- <img align="center" alt="Lucas" width="50%" src="https://user-images.githubusercontent.com/104622435/235304761-1ec37068-2cc7-4895-bc85-9fb07307fa37.png" /> 
+ <img align="center" alt="Lucas" width="40%" src="https://user-images.githubusercontent.com/104622435/235304761-1ec37068-2cc7-4895-bc85-9fb07307fa37.png" /> 
  
  </div>
   
