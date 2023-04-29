@@ -14,7 +14,7 @@
 </div>
  
  <div align="center" style="display: inline_block"><br>
- <img align="center" alt="Lucas"  height="10%" width="80%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
+ <img align="center" alt="Lucas"  height="5%" width="80%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
  </div>
  
  
