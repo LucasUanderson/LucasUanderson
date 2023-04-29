@@ -13,10 +13,7 @@
 <a href ="" target="_blank"><img width="7%" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
- <div align="center" style="display: inline_block"><br>
- <img align="center" alt="Lucas"  height="5%" width="80%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
- </div>
- 
+
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bangers&color=8B0000&size=15&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+lucas+uanderson;eu+tenho+26+anos;Estou+me+graduando+em+Engenharia+de+software;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -46,6 +43,10 @@
  <img align="center" alt="Lucas" width="40%" src="https://user-images.githubusercontent.com/104622435/235304761-1ec37068-2cc7-4895-bc85-9fb07307fa37.png" /> 
  </div>
   
+ 
+  <div align="center" style="display: inline_block"><br>
+ <img align="center" alt="Lucas"  height="5%" width="80%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
+ </div>
 <div align="center">
  
 ![Snake animation](https://github.com/LucasUanderson/LucasUanderson/blob/output/github-contribution-grid-snake.svg)
