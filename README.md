@@ -34,7 +34,6 @@
   <img align="center" alt="Lucas" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" />    
  </div>
  <hr>
- <br>
 
 
  
@@ -44,7 +43,7 @@
  </div>
   
  
-  <div align="center" style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Lucas" height="250" width="80%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
  </div>
 <div align="center">
