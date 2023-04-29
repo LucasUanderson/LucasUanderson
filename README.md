@@ -34,15 +34,14 @@
  </div>
  <hr>
  <br>
- 
- 
 
+ <div align="center" style="display: inline_block"><br>
+ <img align="center" alt="Lucas"  height="20%" width="40%" src="https://user-images.githubusercontent.com/104622435/235320085-e42883fb-c838-429e-b5de-735cbedf2955.gif" /> 
+ </div>
  
-
+ 
  <div align="center" style="align: center">
-
  <img align="center" alt="Lucas" width="40%" src="https://user-images.githubusercontent.com/104622435/235304761-1ec37068-2cc7-4895-bc85-9fb07307fa37.png" /> 
- 
  </div>
   
 <div align="center">
