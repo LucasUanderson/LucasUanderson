@@ -14,9 +14,7 @@
 </div>
  
 
- 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bangers&color=8B0000&size=15&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+lucas+uanderson;eu+tenho+26+anos;Estou+me+graduando+em+Engenharia+de+software;Be+Welcome!+:%29)](https://git.io/typing-svg)
  <br>
 
  <div align="center" style="display: inline_block"><br>
