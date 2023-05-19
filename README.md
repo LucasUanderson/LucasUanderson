@@ -38,6 +38,7 @@
 </div>
 
  <details open> 
+  <summary > Fullstack </summary>
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
       <a href="https://github.com/LucasUanderson/Movie_Fullstack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasUanderson&repo=Movie_Fullstack&theme=react&bg_color=1F222E&title_color=8B0000&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>  
@@ -47,5 +48,13 @@
    <a href="https://github.com/LucasUanderson/Fullstack_Tripcal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasUanderson&repo=Fullstack_Tripcal&theme=react&bg_color=1F222E&title_color=8B0000&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>  
   </p>
 
+  <details open> 
+  <summary > Dart </summary>
+   
+  <details open> 
+  <summary > Backend </summary>
+   
+   <details open> 
+  <summary > Frontend </summary>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=120&section=footer"/>
